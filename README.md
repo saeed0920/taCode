@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Todo
+
+- [] write readme file
+- [] responsive
+- [] add fontFamily
